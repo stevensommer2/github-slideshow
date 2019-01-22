@@ -1,7 +1,8 @@
 
 
 ---
-layout: slide
+
+layout: **header**
 title: "Welcome to out second slide!"
 ---
 Your text
